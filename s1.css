@@ -79,7 +79,7 @@ img {
     height: 8vh;
     display: flex;
     justify-content: flex-end; 
-    border-radius: 10px;
+    /* border-radius: 10px; */
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -109,7 +109,7 @@ img {
     margin:10px;
     padding: 10px 20px;
     font-size: 1.2em;
-    background-color: #865ad8;
+    background-color:rgb(32 31 35);
     color: white;
     border: none;
     cursor: pointer;

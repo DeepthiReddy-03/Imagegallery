@@ -47,7 +47,7 @@ img {
   height: 8vh;
   display: flex;
   justify-content: flex-end; 
-  border-radius: 10px;
+  /* border-radius: 10px; */
   overflow: hidden;
   position: fixed;
   top: 0;
