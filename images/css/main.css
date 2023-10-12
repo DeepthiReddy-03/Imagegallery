@@ -218,7 +218,7 @@ h6 {
   bottom: 15px;
 }
 
-@media (max-width: 1279px) {
+/* @media (max-width: 1279px) {
   .navbar {
     position: fixed;
     top: 0;
@@ -323,7 +323,7 @@ h6 {
     background: rgba(22, 23, 24, 0.8);
     z-index: 9996;
   }
-}
+} */
 
 .gallery {
   margin-top: 40px;
@@ -344,7 +344,7 @@ h6 {
   inset: 0;
   opacity: 0;
   transition: all ease-in-out 0.3s;
-  background: rgba(0, 0, 0, 0.6);
+  /* background: rgba(0, 0, 0, 0.6); */
   z-index: 3;
 }
 
