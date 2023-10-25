@@ -1,3 +1,8 @@
+:root {
+  --font-default: 'Macondo Swash Caps', cursive;
+   --font-primary:'Macondo Swash Caps', cursive;
+  --font-secondary:'Macondo Swash Caps', cursive;
+}
 * {
     box-sizing: border-box;
   }
@@ -7,11 +12,11 @@
   .v1_63 {
     width: 100%;
     height: 100%;
-    background: url("v1_63.png");
+    background: url("c.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    opacity: 1;
+    /* opacity: 0.5; */
     position: absolute;
     top: 0px;
     left: 0px;
@@ -191,7 +196,7 @@
     margin: 4px 5px 17px -44px;
   }
   .nav {
-    background-color: rgb(198, 195, 195);
+    background-color:#1069b2;
     width: 100%; 
     height: 8vh;
     display: flex;
